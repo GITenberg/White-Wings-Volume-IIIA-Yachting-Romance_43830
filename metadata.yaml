@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6136
     wikipedia: http://en.wikipedia.org/wiki/William_Black_%28novelist%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43830#White-Wings-Volume-IIIA-Yachting-Romance
 gutenberg_issued: '2013-09-27'
 gutenberg_type: Text
 identifiers:
