@@ -1,0 +1,27 @@
+_repo: White-Wings-Volume-IIIA-Yachting-Romance_43830
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43830-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Black, William
+    birthdate: 1841
+    deathdate: 1898
+    gutenberg_agent_id: '6136'
+    url: http://www.gutenberg.org/2009/agents/6136
+    wikipedia: http://en.wikipedia.org/wiki/William_Black_%28novelist%29
+description: ''
+gutenberg_issued: '2013-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43830'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Yachting -- Fiction'
+- !lcc 'PR'
+title: 'White Wings: A Yachting Romance, Volume III'
+url: http://www.gutenberg.org/ebooks/43830
